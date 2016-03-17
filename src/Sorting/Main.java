@@ -25,10 +25,6 @@ public class Main {
 		for (int i : InsertionSort.insertionSort(unsortedArray)) {
 			System.out.print(i + " ");
 		}
-		//TODO: sort the array and print out its contents
-		for (int i: BubbleSort.bubbleSort(unsortedArray)) {
-				System.out.print(i + " ");
-		}
 		
 	}
 
